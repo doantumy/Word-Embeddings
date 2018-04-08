@@ -3,9 +3,9 @@ The main purpose of this work is to understand about the word embedding (part of
 
 # Expected results
 ## Theoretical:
-o	What is word embedding for text, RNN
-o	Algorithms used for learning word embedding from text data (eg. glove,  word2vec developed by Mikolov et al that is used for learning vector representations of words)
-o	Some insights about Deep learning packages (eg. TensorFlow)
+* What is word embedding for text, RNN
+* Algorithms used for learning word embedding from text data (eg. fasttext, glove,  word2vec developed by Mikolov et al that is used for learning vector representations of words)
+* Some insights about Deep learning packages (eg. TensorFlow)
 ## Practical: 
 Apply word embedding in deep learning (Python) (dataset can be chosen from Kaggle)
 
