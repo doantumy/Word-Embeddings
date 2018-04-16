@@ -1,3 +1,5 @@
+[The work will be done by end of June 2018]
+
 # Context 
 The main purpose of this work is to understand about the word embedding (part of language modelling techniques for NLP), its applications, and how to build a model that can be used for text processing with the help of some related Deep Learning packages/libraries for NLP. 
 
