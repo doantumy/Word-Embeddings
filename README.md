@@ -21,5 +21,6 @@ Apply word embedding in deep learning (Python) (dataset can be chosen from Kaggl
 6. Jeffrey Pennington , Richard Socher , Christopher D. Manning. Glove: Global vectors for word representation. In EMNLP (2014).
 7. Armand Joulin, Edouard Grave, Piotr Bojanowski, Tomas Mikolov. Bag of Tricks for Efficient Text Classification. arXiv:1607.01759 (2016)
 8. Piotr Bojanowski, Edouard Grave, Armand Joulin, Tomas Mikolov. Enriching Word Vectors with Subword Information. arXiv:1607.04606 (2017)
-9. Piotr Bojanowski, Edouard Grave, Armand Joulin, Tomas Mikolov. Facebook Research on fastText\\\texttt{\url{https://research.fb.com/fasttext/}}
+9. Piotr Bojanowski, Edouard Grave, Armand Joulin, Tomas Mikolov. Facebook Research on fastText https://research.fb.com/fasttext/
+10. NSS, Text Classification & Word Representations using FastText (An NLP library by Facebook), 2017.
 
