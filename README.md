@@ -13,9 +13,13 @@ Apply word embedding in deep learning (Python) (dataset can be chosen from Kaggl
 
 # References
 
-1.	Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean. Efficient estimation of word representations in vector space. ICLR Workshop, 2013. https://arxiv.org/pdf/1301.3781.pdf
-2.	http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
-3.	CS224n: Natural Language Processing with Deep Learning https://www.datascience.com/resources/notebooks/word-embeddings-in-python http://web.stanford.edu/class/cs224n/syllabus.html
-4.	https://www.packtpub.com/application-development/python-text-processing-nltk-20-cookbook
-5.	Natural Language Processing with Python http://www.nltk.org/book/
+1. Y. Bengio, R. Ducharme, Vincent, P., and C. Jauvin. 2003. A neural probabilistic language model. Journal of Machine Learning Reseach.
+2. Tomas Mikolov, Wen-tau Yih and Geoffrey Zweig. Linguistic Regularities in Continuous Space Word Representations. In Proceedings of NAACL HLT, 2013.
+3. Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean. Efficient estimation of word representations in vector space. arXiv preprint arXiv:1301.3781 (2013).
+4. Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado and Jeffrey Dean. Distributed Representations of Words and Phrases and their Compositionality. 	arXiv:1310.4546 (2013).
+5. Amit Mandelbaum, Adi Shalev. Word Embeddings and Their Use In Sentence Classification Tasks. arXiv:1610.08229v1(2017).
+6. Jeffrey Pennington , Richard Socher , Christopher D. Manning. Glove: Global vectors for word representation. In EMNLP (2014).
+7. Armand Joulin, Edouard Grave, Piotr Bojanowski, Tomas Mikolov. Bag of Tricks for Efficient Text Classification. arXiv:1607.01759 (2016)
+8. Piotr Bojanowski, Edouard Grave, Armand Joulin, Tomas Mikolov. Enriching Word Vectors with Subword Information. arXiv:1607.04606 (2017)
+9. Piotr Bojanowski, Edouard Grave, Armand Joulin, Tomas Mikolov. Facebook Research on fastText\\\texttt{\url{https://research.fb.com/fasttext/}}
 
